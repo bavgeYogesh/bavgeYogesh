@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bavgeYogesh
+- 👋 Hi, I’m Yogesh Bavge
 - 👀 I’m interested in Artificial Intellegence
 - 🌱 I’m currently learning Data Analytics, Machine Learning, Artificial Intellegence, AI-OPS
 - 💞️ I’m looking to collaborate on AI projects
